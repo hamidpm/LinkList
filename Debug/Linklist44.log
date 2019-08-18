@@ -1,0 +1,9 @@
+﻿  LinkList.cpp
+C:\Users\hpourmoghad\source\repos\Linklist44\LinkList.cpp(78): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\hpourmoghad\source\repos\Linklist44\LinkList.cpp(107): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\hpourmoghad\source\repos\Linklist44\LinkList.cpp(131): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\hpourmoghad\source\repos\Linklist44\LinkList.cpp(134): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hpourmoghad\source\repos\Linklist44\LinkList.cpp(156): warning C4018: '>': signed/unsigned mismatch
+  Node.cpp
+  Generating Code...
+  Linklist44.vcxproj -> C:\Users\hpourmoghad\source\repos\Linklist44\Debug\Linklist44.exe
